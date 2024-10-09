@@ -14,13 +14,23 @@ Project Tasks
 
 Credit card applications
 Inspecting the applications
+
 Handling the missing values (part i)
+
 Handling the missing values (part ii)
+
 Handling the missing values (part iii)
+
 Preprocessing the data (part i)
+
 Splitting the dataset into train and test sets
+
 Preprocessing the data (part ii)
+
 Fitting a logistic regression model to the train set
+
 Making predictions and evaluating performance
+
 Grid searching and making the model perform better
+
 Finding the best performing model
